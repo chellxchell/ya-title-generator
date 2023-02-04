@@ -1,0 +1,20 @@
+{
+    "articles": ["A", "The"],
+    "subject": [
+        "Court", "Kingdom", "House", "City",
+        "Song", "Crown", "Whisper",
+        "Daughter", "Son", "Girl",
+        "Fate", "Love", "Curse", "War", "Soul", "Secret", "Curse", "Wrath",
+        "Prince", "Princess", "Heir", "Queen", "King", "Knight" 
+    ],
+    "preposition": ["of"],
+    "conjunction": ["and"],
+    "descriptors": [
+        "Ice", "Frost", "Fire", "Flame", "Mist", "Smoke", "Wind", "Air", "Sand",
+        "Stars", "Starlight", "Light", "Day", "Night", "Shadow", "Darkness", "Dawn",
+        "Moon", "Sun", "Earth", "Sea", "Sky",
+        "Thorns", "Roses", "Stone", "Chains", "Bone", "Ember", "Blood", "Ashes", "Flesh", "Glass", "Blades", "Mirrors", "Wings",
+        "Bronze", "Silver", "Gold", "Diamonds", "Iron", "Steel",
+        "Fury", "Fate", "Ruin", "Death", "Curses", "Wrath", "Life", "War", "Soul", "Secrets", "Lies", "Silence", "Spells", "Chaos", "Whispers"
+    ]
+}
